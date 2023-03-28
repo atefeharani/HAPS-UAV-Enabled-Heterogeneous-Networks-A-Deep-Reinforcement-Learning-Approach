@@ -14,11 +14,11 @@ The integrated use of non-terrestrial network (NTN) entities such as the high-al
 # Citation:
 @misc{arani2023hapsuavenabled,<br />
       title={HAPS-UAV-Enabled Heterogeneous Networks: A Deep Reinforcement Learning Approach},  
-      author={Atefeh H. Arani and Peng Hu and Yeying Zhu},
-      year={2023},
-      eprint={2303.12883},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY}
+      author={Atefeh H. Arani and Peng Hu and Yeying Zhu},  
+      year={2023},   
+      eprint={2303.12883},  
+      archivePrefix={arXiv},  
+      primaryClass={eess.SY}  
 }
 
 
