@@ -23,3 +23,4 @@ The integrated use of non-terrestrial network (NTN) entities such as the high-al
 
 
 
+
